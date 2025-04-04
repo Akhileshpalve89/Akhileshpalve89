@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Akhilesh Palve
 <a href="https://www.linkedin.com/in/akhilesh-palve-955739323"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity enthusiast specializing in penetration testing. Currently pursuing my B.Tech in Cybersecurity & Forensics at MIT ADT University, I have gained hands-on experience through internships at Palo Alto Networks and Plasmid. I have conducted penetration tests on enterprise systems, web applications, and Active Directory environments, focusing on vulnerability assessments, exploitation, and remediation. I actively participate in Capture The Flag (CTF) competitions and have solved 15+ Hack The Box (HTB) machines, improving my skills in privilege escalation and lateral movement. 
