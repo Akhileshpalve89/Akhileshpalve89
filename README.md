@@ -12,7 +12,7 @@ My goal is to contribute to offensive security by identifying and mitigating vul
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Active Directory                                | <a href="https://google.com">AD Lab</a>|
+| Active Directory, LDAP, LAPSE, Kerberoasting | <a href="[https://google.com](https://github.com/Akhileshpalve89/Vulnerable-Active-Directory)">AD Lab</a>|
 | SSH security, Threat Intelligence, SQLite logging| <a href="https://github.com/Akhileshpalve89/CyberAttack-Honeypot">Honey Pot repo </a>|
 | Browser extension development, OSINT APIs, phishing detection.| <a href="https://github.com/Akhileshpalve89/Phishing-Email-Analyzer">Email Analyzer |
 
