@@ -13,7 +13,7 @@ My goal is to contribute to offensive security by identifying and mitigating vul
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
 | Active Directory                                | <a href="https://google.com">AD Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| HoneyPot | <a href="https://github.com/Akhileshpalve89/CyberAttack-Honeypot">Honey Pot repo </a>|
 | Email Detection                                 | Browser Extension |
 
 ## Tools
